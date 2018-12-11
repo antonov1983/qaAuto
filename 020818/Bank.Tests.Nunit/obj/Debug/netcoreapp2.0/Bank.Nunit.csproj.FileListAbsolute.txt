@@ -1,0 +1,17 @@
+C:\Users\asabg\Desktop\020818\Bank.Tests.Nunit\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\asabg\Desktop\020818\Bank.Tests.Nunit\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\asabg\Desktop\020818\Bank.Tests.Nunit\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\asabg\Desktop\020818\Bank.Tests.Nunit\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\asabg\Desktop\020818\Bank.Tests.Nunit\bin\Debug\netcoreapp2.0\Bank.Nunit.deps.json
+C:\Users\asabg\Desktop\020818\Bank.Tests.Nunit\bin\Debug\netcoreapp2.0\Bank.Nunit.runtimeconfig.json
+C:\Users\asabg\Desktop\020818\Bank.Tests.Nunit\bin\Debug\netcoreapp2.0\Bank.Nunit.runtimeconfig.dev.json
+C:\Users\asabg\Desktop\020818\Bank.Tests.Nunit\bin\Debug\netcoreapp2.0\Bank.Nunit.dll
+C:\Users\asabg\Desktop\020818\Bank.Tests.Nunit\bin\Debug\netcoreapp2.0\Bank.Nunit.pdb
+C:\Users\asabg\Desktop\020818\Bank.Tests.Nunit\bin\Debug\netcoreapp2.0\Bank.dll
+C:\Users\asabg\Desktop\020818\Bank.Tests.Nunit\bin\Debug\netcoreapp2.0\Bank.pdb
+C:\Users\asabg\Desktop\020818\Bank.Tests.Nunit\obj\Debug\netcoreapp2.0\Bank.Nunit.csprojResolveAssemblyReference.cache
+C:\Users\asabg\Desktop\020818\Bank.Tests.Nunit\obj\Debug\netcoreapp2.0\Bank.Nunit.csproj.CoreCompileInputs.cache
+C:\Users\asabg\Desktop\020818\Bank.Tests.Nunit\obj\Debug\netcoreapp2.0\Bank.Nunit.AssemblyInfoInputs.cache
+C:\Users\asabg\Desktop\020818\Bank.Tests.Nunit\obj\Debug\netcoreapp2.0\Bank.Nunit.AssemblyInfo.cs
+C:\Users\asabg\Desktop\020818\Bank.Tests.Nunit\obj\Debug\netcoreapp2.0\Bank.Nunit.dll
+C:\Users\asabg\Desktop\020818\Bank.Tests.Nunit\obj\Debug\netcoreapp2.0\Bank.Nunit.pdb
