@@ -1,0 +1,15 @@
+C:\Users\asabg\Desktop\IzpratenoDomashnoEdno\SeleniumBasicDemo\SeleniumWebDriverFirstTests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\asabg\Desktop\IzpratenoDomashnoEdno\SeleniumBasicDemo\SeleniumWebDriverFirstTests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\asabg\Desktop\IzpratenoDomashnoEdno\SeleniumBasicDemo\SeleniumWebDriverFirstTests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\asabg\Desktop\IzpratenoDomashnoEdno\SeleniumBasicDemo\SeleniumWebDriverFirstTests\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\asabg\Desktop\IzpratenoDomashnoEdno\SeleniumBasicDemo\SeleniumWebDriverFirstTests\bin\Debug\netcoreapp2.0\SeleniumWebDriverFirstTests.deps.json
+C:\Users\asabg\Desktop\IzpratenoDomashnoEdno\SeleniumBasicDemo\SeleniumWebDriverFirstTests\bin\Debug\netcoreapp2.0\SeleniumWebDriverFirstTests.runtimeconfig.json
+C:\Users\asabg\Desktop\IzpratenoDomashnoEdno\SeleniumBasicDemo\SeleniumWebDriverFirstTests\bin\Debug\netcoreapp2.0\SeleniumWebDriverFirstTests.runtimeconfig.dev.json
+C:\Users\asabg\Desktop\IzpratenoDomashnoEdno\SeleniumBasicDemo\SeleniumWebDriverFirstTests\bin\Debug\netcoreapp2.0\SeleniumWebDriverFirstTests.dll
+C:\Users\asabg\Desktop\IzpratenoDomashnoEdno\SeleniumBasicDemo\SeleniumWebDriverFirstTests\bin\Debug\netcoreapp2.0\SeleniumWebDriverFirstTests.pdb
+C:\Users\asabg\Desktop\IzpratenoDomashnoEdno\SeleniumBasicDemo\SeleniumWebDriverFirstTests\obj\Debug\netcoreapp2.0\SeleniumWebDriverFirstTests.csprojResolveAssemblyReference.cache
+C:\Users\asabg\Desktop\IzpratenoDomashnoEdno\SeleniumBasicDemo\SeleniumWebDriverFirstTests\obj\Debug\netcoreapp2.0\SeleniumWebDriverFirstTests.csproj.CoreCompileInputs.cache
+C:\Users\asabg\Desktop\IzpratenoDomashnoEdno\SeleniumBasicDemo\SeleniumWebDriverFirstTests\obj\Debug\netcoreapp2.0\SeleniumWebDriverFirstTests.AssemblyInfoInputs.cache
+C:\Users\asabg\Desktop\IzpratenoDomashnoEdno\SeleniumBasicDemo\SeleniumWebDriverFirstTests\obj\Debug\netcoreapp2.0\SeleniumWebDriverFirstTests.AssemblyInfo.cs
+C:\Users\asabg\Desktop\IzpratenoDomashnoEdno\SeleniumBasicDemo\SeleniumWebDriverFirstTests\obj\Debug\netcoreapp2.0\SeleniumWebDriverFirstTests.dll
+C:\Users\asabg\Desktop\IzpratenoDomashnoEdno\SeleniumBasicDemo\SeleniumWebDriverFirstTests\obj\Debug\netcoreapp2.0\SeleniumWebDriverFirstTests.pdb
